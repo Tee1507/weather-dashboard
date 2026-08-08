@@ -7,5 +7,5 @@ A responsive front-end web application that provides real-time weather informati
 - Interactive UI built with AngularJS and jQuery
 ## How to Run
 1. Clone or download this repository.
-2. Open index.html 2. n any modern web browser.
-3. Add your free API key from [OpenWeatherMap](https://openweathermap.org/) into index.html where indicated.
+2. Open index.html in any web browser.
+4. Add your free API key from [OpenWeatherMap](https://openweathermap.org/) into index.html where indicated.
